@@ -1,0 +1,14 @@
+adc-doamdat\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+adc-doamdat\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+adc-doamdat\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+adc-doamdat\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+adc-doamdat\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+adc-doamdat\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+adc-doamdat\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+adc-doamdat\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+adc-doamdat\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+adc-doamdat\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+adc-doamdat\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+adc-doamdat\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+adc-doamdat\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+adc-doamdat\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h
